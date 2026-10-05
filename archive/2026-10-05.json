@@ -1,6 +1,6 @@
 {
   "schema_version": 5,
-  "generated_at": "2026-10-05T14:40:22.957689+00:00",
+  "generated_at": "2026-10-05T14:51:48.830367+00:00",
   "spots": {
     "pantin": {
       "lat": 43.6413,
@@ -8,7 +8,7 @@
       "waves": {
         "latitude": 43.7,
         "longitude": -8.1,
-        "generationtime_ms": 0.5549192428588867,
+        "generationtime_ms": 0.7600784301757812,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -8400,7 +8400,7 @@
       "wind": {
         "latitude": 43.6875,
         "longitude": -8.0625,
-        "generationtime_ms": 259.23454761505127,
+        "generationtime_ms": 0.5042552947998047,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -10342,7 +10342,7 @@
       "waves": {
         "latitude": 43.5,
         "longitude": -8.4,
-        "generationtime_ms": 0.8820295333862305,
+        "generationtime_ms": 0.47779083251953125,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -18734,7 +18734,7 @@
       "wind": {
         "latitude": 43.5,
         "longitude": -8.3125,
-        "generationtime_ms": 5.184173583984375,
+        "generationtime_ms": 1.1216402053833008,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -20682,7 +20682,7 @@
       "waves": {
         "latitude": 43.35,
         "longitude": -8.8,
-        "generationtime_ms": 0.5172491073608398,
+        "generationtime_ms": 0.666499137878418,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -29074,7 +29074,7 @@
       "wind": {
         "latitude": 43.3125,
         "longitude": -8.8125,
-        "generationtime_ms": 5.738735198974609,
+        "generationtime_ms": 0.2557039260864258,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -31016,7 +31016,7 @@
       "waves": {
         "latitude": 43.4,
         "longitude": -8.4,
-        "generationtime_ms": 0.6802082061767578,
+        "generationtime_ms": 0.5801916122436523,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -39408,7 +39408,7 @@
       "wind": {
         "latitude": 43.3125,
         "longitude": -8.3125,
-        "generationtime_ms": 8.533716201782227,
+        "generationtime_ms": 0.873565673828125,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -41350,7 +41350,7 @@
       "waves": {
         "latitude": 43.35,
         "longitude": -8.6,
-        "generationtime_ms": 0.783085823059082,
+        "generationtime_ms": 0.5339384078979492,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -49742,7 +49742,7 @@
       "wind": {
         "latitude": 43.3125,
         "longitude": -8.5625,
-        "generationtime_ms": 2.8667449951171875,
+        "generationtime_ms": 0.9011030197143555,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -51684,7 +51684,7 @@
       "waves": {
         "latitude": 42.8,
         "longitude": -9.2,
-        "generationtime_ms": 0.7991790771484375,
+        "generationtime_ms": 0.7953643798828125,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -60076,7 +60076,7 @@
       "wind": {
         "latitude": 42.8125,
         "longitude": -9.125,
-        "generationtime_ms": 10.408997535705566,
+        "generationtime_ms": 1.540064811706543,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -62018,7 +62018,7 @@
       "waves": {
         "latitude": 43.65,
         "longitude": -7.6,
-        "generationtime_ms": 0.9272098541259766,
+        "generationtime_ms": 0.8604526519775391,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -70410,7 +70410,7 @@
       "wind": {
         "latitude": 43.6875,
         "longitude": -7.625,
-        "generationtime_ms": 1.495957374572754,
+        "generationtime_ms": 1.531362533569336,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -72358,7 +72358,7 @@
       "waves": {
         "latitude": 43.05,
         "longitude": -9.3,
-        "generationtime_ms": 0.6237030029296875,
+        "generationtime_ms": 0.8171796798706055,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -80750,7 +80750,7 @@
       "wind": {
         "latitude": 43.0,
         "longitude": -9.25,
-        "generationtime_ms": 1.2322664260864258,
+        "generationtime_ms": 2.653837203979492,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -82692,7 +82692,7 @@
       "waves": {
         "latitude": 43.8,
         "longitude": -7.7,
-        "generationtime_ms": 0.8515119552612305,
+        "generationtime_ms": 0.8571147918701172,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
@@ -91084,7 +91084,7 @@
       "wind": {
         "latitude": 43.75,
         "longitude": -7.6875,
-        "generationtime_ms": 0.24843215942382812,
+        "generationtime_ms": 2.0966529846191406,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Madrid",
         "timezone_abbreviation": "GMT+2",
